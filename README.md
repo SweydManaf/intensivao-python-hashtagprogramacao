@@ -14,6 +14,15 @@ Todos os códigos estão funcionais, mas não necessariamente representam a vers
 - Projeto de pequena automação para envio de relatório por e-mail, com informações de faturamento e quantidade de produtos vendidas no dia todo processo automatizado.
 - Bibliotecas utilizadas: pyautogui, pyperclip, pandas.
 
-### 10_01 - Análise de dados/Aula 2
+### 10_01 - Análise de dados - Aula 2
 Projeto de análise de dados para descobrir motivos de cancelamento de clientes em uma base de dados de uma telefônica.
 Bibliotecas utilizadas: pandas, plotly.
+
+### 11_01 - Automação web (web scraping) - Aula 3
+Projeto de automação web para atualizar a cotação do dólar, euro e ouro em uma base de dados, atualizando preços de compra e de venda.
+Bibliotecas utilizadas: selenium, pandas.
+
+### 12_01 - Machine Learning e Data Science - Aula 4
+Projeto de ciência de dados com inteligência artificial para entender e prever as vendas de acordo com investimentos em TV, rádio e jornal de uma empresa.
+Modelos utilizzados: Regressão Linear, Random Forest.
+Bibliotecas utilizadas: pandas, matplotlib, seaborn, scikit-learn.
